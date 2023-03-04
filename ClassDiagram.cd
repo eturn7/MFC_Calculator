@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Comment CommentText="OnBn0~9分别为数字0~9的控件，其他控件也均以OnBn开头加英文；">
+    <Position X="5.901" Y="4.087" Height="0.75" Width="1.7" />
+  </Comment>
+  <Comment CommentText="word_analysis为输入算式的语法检查&#xD;&#xA;">
+    <Position X="2.068" Y="4.967" Height="0.52" Width="1.7" />
+  </Comment>
+  <Comment CommentText="expCalculate为计算后缀表达式">
+    <Position X="2.051" Y="2.472" Height="0.606" Width="1.7" />
+  </Comment>
+  <Comment CommentText="getPostfix为中缀转后缀表达式">
+    <Position X="2.099" Y="3.22" Height="0.482" Width="1.7" />
+  </Comment>
+  <Class Name="Calcul">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAABAABAQAAYAAAQAAEIAIACAAAAAAJAEioAAgAAgA=</HashCode>
+      <FileName>Calcul.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMFCCalculatorDlg">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <NestedTypes>
+      <Enum Name="CMFCCalculatorDlg::__unnamed_enum_0006_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>MFCCalculatorDlg.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>FEDgABEAACAQAAFAAFAAgEBAAAABADQBQoACgEAQAEg=</HashCode>
+      <FileName>MFCCalculatorDlg.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
